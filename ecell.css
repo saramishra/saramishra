@@ -1,0 +1,118 @@
+/* Global Styling */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+
+/* Container */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #002244; /* Dark blue */
+  width: 100%;
+  padding: 10px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-links a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+/* Section */
+.section {
+  background-color: #d9fefb; /* Light blue */
+  padding: 20px;
+  width: 80%;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.section h2 {
+  margin-bottom: 10px;
+  font-size: 24px;
+  color: #002244;
+}
+
+.section p {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #444;
+}
+
+/* MES Container */
+.mes-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.image-placeholder {
+  width: 100px;
+  height: 100px;
+  background-color: #ccc;
+  margin-bottom: 10px;
+}
+
+.mes-container h3 {
+  font-size: 20px;
+  color: black;
+}
+
+/* Footer */
+.footer {
+  background-color: #002244; /* Dark blue */
+  color: white;
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 14px;
+}
+
+/* Buttons */
+.buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80%;
+  max-width: 400px;
+}
+
+.signup-btn,
+.login-btn {
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.signup-btn {
+  background-color: #008aff; /* Blue */
+  color: white;
+}
+
+.login-btn {
+  background-color: #ffffff; /* White */
+  color: black;
+  border: 1px solid #ccc;
+}
+
