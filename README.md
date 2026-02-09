@@ -19,7 +19,7 @@ I am an electrical engineer with core interests in control systems, embedded sys
 ![Power Systems](https://img.shields.io/badge/Power%20Systems-A855F7?style=for-the-badge)
 ![Control Systems](https://img.shields.io/badge/Control%20Systems-4F46E5?style=for-the-badge)
 ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-6366F1?style=for-the-badge)
-![Communication System](https://img.shields.io/badge/Communicationc%20System-7C3AED?style=for-the-badge)
+![Communication System](https://img.shields.io/badge/Communication%20System-7C3AED?style=for-the-badge)
 ![System Modeling](https://img.shields.io/badge/System%20Modeling-8B5CF6?style=for-the-badge)
 ![Applied Research](https://img.shields.io/badge/Applied%20Research-A855F7?style=for-the-badge)
 
