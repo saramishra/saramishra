@@ -1,8 +1,7 @@
-<!-- Optional Header Image 
+<!-- Optional Header Image -->
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+  <img src="(https://au.pinterest.com/pin/950541065118825264/)" width="100%" />
 </p>
--->
 ---
 
 ## About
