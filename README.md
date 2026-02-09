@@ -1,9 +1,9 @@
-<!-- Optional Header Image -->
+<!-- Optional Header Image 
 <p align="center">
   <img src="(https://au.pinterest.com/pin/950541065118825264/)" width="100%" />
 </p>
 ---
-
+-->
 ## About
 
 I am an electrical engineer with core interests in control systems, embedded systems, and power systems. In parallel, I independently explore AI, machine learning, deep learning, data science, and data analytics as areas of personal and academic interest.
@@ -15,12 +15,12 @@ I am an electrical engineer with core interests in control systems, embedded sys
 ![AI/ML/DL](https://img.shields.io/badge/AI%20%2F%20ML%20%2F%20DL-4F46E5?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data%20Science-6366F1?style=for-the-badge)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-7C3AED?style=for-the-badge)
-![Power Systems](https://img.shields.io/badge/Power%20Systems-8B5CF6?style=for-the-badge)
-![Control Systems](https://img.shields.io/badge/Control%20Systems-A855F7?style=for-the-badge)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-4F46E5?style=for-the-badge)
-![Graphic Designing](https://img.shields.io/badge/Graphic%20Designing-6366F1?style=for-the-badge)
-![System Modeling](https://img.shields.io/badge/System%20Modeling-7C3AED?style=for-the-badge)
-![Signal Analysis](https://img.shields.io/badge/Signal%20Analysis-8B5CF6?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-8B5CF6?style=for-the-badge)
+![Power Systems](https://img.shields.io/badge/Power%20Systems-A855F7?style=for-the-badge)
+![Control Systems](https://img.shields.io/badge/Control%20Systems-4F46E5?style=for-the-badge)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-6366F1?style=for-the-badge)
+![Communication System](https://img.shields.io/badge/Communicationc%20System-7C3AED?style=for-the-badge)
+![System Modeling](https://img.shields.io/badge/System%20Modeling-8B5CF6?style=for-the-badge)
 ![Applied Research](https://img.shields.io/badge/Applied%20Research-A855F7?style=for-the-badge)
 
 ---
@@ -31,12 +31,18 @@ I am an electrical engineer with core interests in control systems, embedded sys
 ![C++](https://img.shields.io/badge/C%2B%2B-6366F1?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-7C3AED?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-8B5CF6?style=for-the-badge)
-![Verilog](https://img.shields.io/badge/Verilog-A855F7?style=for-the-badge)
-![8051](https://img.shields.io/badge/8051%20Microcontroller-4F46E5?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-A855F7?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4F46E5?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-6366F1?style=for-the-badge)
+![React.js](https://img.shields.io/badge/React.js-7C3AED?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-8B5CF6?style=for-the-badge)
+![8051](https://img.shields.io/badge/8051%20Microcontroller-A855F7?style=for-the-badge)
+![ARM Cortex-M](https://img.shields.io/badge/ARM%20Cortex--M-4F46E5?style=for-the-badge)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-6366F1?style=for-the-badge)
 ![RTL Design](https://img.shields.io/badge/RTL%20Design-7C3AED?style=for-the-badge)
 ![Low Level Programming](https://img.shields.io/badge/Low--Level%20Programming-8B5CF6?style=for-the-badge)
 ![Hardware Interfacing](https://img.shields.io/badge/Hardware%20Interfacing-A855F7?style=for-the-badge)
+
 
 ---
 
@@ -51,15 +57,15 @@ I am an electrical engineer with core interests in control systems, embedded sys
 ![Simulink](https://img.shields.io/badge/Simulink-6366F1?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-7C3AED?style=for-the-badge)
 ![Circuit Simulation](https://img.shields.io/badge/Circuit%20Simulation-8B5CF6?style=for-the-badge)
-![Debugging](https://img.shields.io/badge/Debugging-A855F7?style=for-the-badge)
+<!--![Debugging](https://img.shields.io/badge/Debugging-A855F7?style=for-the-badge)-->
 
 ---
 
 ## Research Publication
 
-**Title:** Your Published Research Paper Title  
-**Status:** Published  
-**Link:** https://your-paper-link  
+**Title:** Predictive Modeling for Parkinson's Diagnosis: A Machine Learning Approach Using Patient Data
+<!--**Status:** Published-->  
+**Link:** (https://ieeexplore.ieee.org/xpl/conhome/11339979/proceeding)  
 
 ---
 
