@@ -1,6 +1,6 @@
-<!-- Starry Night Background -->
+<!-- Top Starry Separator -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/starry_night.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212895102-1b3c8b7a-7d2f-4b2a-bc2f-8e9a6f6d0e3a.gif" width="100%" />
 </p>
 
 ---
@@ -32,12 +32,9 @@ My interests include intelligent systems, analytical modeling, and applied resea
 
 ## Research Publications
 
-**Title:** *Your Research Paper Title Goes Here*  
+**Title:** *Your Research Paper Title*  
 **Status:** Published  
-**Link:** https://your-publication-link-here  
-
-Brief description (optional):  
-This paper focuses on analytical modeling and applied system-level evaluation within an engineering context, supported by experimental or data-driven validation.
+**Link:** https://your-publication-link  
 
 ---
 
@@ -47,6 +44,7 @@ Focused on research-oriented projects that integrate electrical engineering fund
 
 ---
 
+<!-- Bottom Starry Separator -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/starry_night.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212895102-1b3c8b7a-7d2f-4b2a-bc2f-8e9a6f6d0e3a.gif" width="100%" />
 </p>
