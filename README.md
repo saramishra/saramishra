@@ -1,50 +1,51 @@
-<!-- Top Starry Separator -->
+<!-- Optional Header Image -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212895102-1b3c8b7a-7d2f-4b2a-bc2f-8e9a6f6d0e3a.gif" width="100%" />
+  <img src="YOUR_IMAGE_LINK_HERE" width="100%" />
 </p>
 
 ---
 
 ## About
 
-I work at the intersection of electrical engineering and data-driven methodologies.  
-My interests include intelligent systems, analytical modeling, and applied research, with a foundation in power systems, control systems, and embedded platforms, complemented by experience in data science and machine learning.
+I work across electrical engineering and data-oriented problem solving, with interests in intelligent systems, analytical modeling, and applied research. My background includes power systems, control systems, and embedded platforms, complemented by work in data science and machine learning.
 
 ---
 
-## Technical Focus Areas
+## Domains
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1600&color=C9D1D9&width=1000&lines=AI+%2F+ML+%2F+DL+|+Data+Science+|+Data+Analytics+|+Power+Systems+|+Control+Systems;Embedded+Systems+|+Graphic+Designing+|+System+Modeling+|+Signal+Analysis+|+Applied+Research" />
+|  |  |  |  |  |
+|--|--|--|--|--|
+| ![](https://img.shields.io/badge/AI%2FML%2FDL-4F46E5?style=for-the-badge) | ![](https://img.shields.io/badge/Data%20Science-6366F1?style=for-the-badge) | ![](https://img.shields.io/badge/Data%20Analytics-7C3AED?style=for-the-badge) | ![](https://img.shields.io/badge/Power%20Systems-8B5CF6?style=for-the-badge) | ![](https://img.shields.io/badge/Control%20Systems-A855F7?style=for-the-badge) |
+| ![](https://img.shields.io/badge/Embedded%20Systems-4F46E5?style=for-the-badge) | ![](https://img.shields.io/badge/Graphic%20Designing-6366F1?style=for-the-badge) | ![](https://img.shields.io/badge/System%20Modeling-7C3AED?style=for-the-badge) | ![](https://img.shields.io/badge/Signal%20Analysis-8B5CF6?style=for-the-badge) | ![](https://img.shields.io/badge/Applied%20Research-A855F7?style=for-the-badge) |
 
 ---
 
 ## Programming Languages & Hardware
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1600&color=C9D1D9&width=1000&lines=C+|+C%2B%2B+|+Python+|+Java+|+Verilog;8051+Microcontroller+|+Embedded+C+|+RTL+Design+|+Low-Level+Programming+|+Hardware+Interfacing" />
+|  |  |  |  |  |
+|--|--|--|--|--|
+| ![](https://img.shields.io/badge/C-4F46E5?style=for-the-badge) | ![](https://img.shields.io/badge/C%2B%2B-6366F1?style=for-the-badge) | ![](https://img.shields.io/badge/Python-7C3AED?style=for-the-badge) | ![](https://img.shields.io/badge/Java-8B5CF6?style=for-the-badge) | ![](https://img.shields.io/badge/Verilog-A855F7?style=for-the-badge) |
+| ![](https://img.shields.io/badge/8051%20Microcontroller-4F46E5?style=for-the-badge) | ![](https://img.shields.io/badge/Embedded%20C-6366F1?style=for-the-badge) | ![](https://img.shields.io/badge/RTL%20Design-7C3AED?style=for-the-badge) | ![](https://img.shields.io/badge/Low--Level%20Programming-8B5CF6?style=for-the-badge) | ![](https://img.shields.io/badge/Hardware%20Interfacing-A855F7?style=for-the-badge) |
 
 ---
 
 ## Software & Tools
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1600&color=C9D1D9&width=1000&lines=MATLAB+|+Jupyter+Notebook+|+LabVIEW+|+LTspice+|+VS+Code;Keil+uVision+5+|+Simulink+|+Data+Visualization+|+Circuit+Simulation+|+Debugging" />
+|  |  |  |  |  |
+|--|--|--|--|--|
+| ![](https://img.shields.io/badge/MATLAB-4F46E5?style=for-the-badge) | ![](https://img.shields.io/badge/Jupyter-6366F1?style=for-the-badge) | ![](https://img.shields.io/badge/LabVIEW-7C3AED?style=for-the-badge) | ![](https://img.shields.io/badge/LTspice-8B5CF6?style=for-the-badge) | ![](https://img.shields.io/badge/VS%20Code-A855F7?style=for-the-badge) |
+| ![](https://img.shields.io/badge/Keil%20uVision%205-4F46E5?style=for-the-badge) | ![](https://img.shields.io/badge/Simulink-6366F1?style=for-the-badge) | ![](https://img.shields.io/badge/Data%20Visualization-7C3AED?style=for-the-badge) | ![](https://img.shields.io/badge/Circuit%20Simulation-8B5CF6?style=for-the-badge) | ![](https://img.shields.io/badge/Debugging-A855F7?style=for-the-badge) |
 
 ---
 
-## Research Publications
+## Research Publication
 
-**Title:** *Your Research Paper Title*  
+**Title:** Your Published Research Paper Title  
 **Status:** Published  
-**Link:** https://your-publication-link  
+**Link:** https://your-paper-link  
 
 ---
 
-## Current Direction
+## Current Focus
 
-Focused on research-oriented projects that integrate electrical engineering fundamentals with data science, machine learning, and system-level analysis.
-
----
-
-<!-- Bottom Starry Separator -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212895102-1b3c8b7a-7d2f-4b2a-bc2f-8e9a6f6d0e3a.gif" width="100%" />
-</p>
+Developing research-aligned projects that integrate electrical engineering fundamentals with data science, machine learning, and system-level modeling.
