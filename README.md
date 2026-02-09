@@ -1,52 +1,52 @@
-<!-- 🌌 Starry Night GitHub Profile README -->
-
+<!-- Starry Night Background -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=8BE9FD&center=true&vCenter=true&width=500&lines=Hello+I'm+Sara+Mishra;Under+the+Starry+Night;EEE+%7C+Data+Science+Explorer;Power+Systems+%26+Analytics" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/starry_night.gif" width="100%" />
 </p>
 
 ---
 
-## 🌙 About Me
-- 🎓 Electrical & Electronics Engineering student  
-- 📊 Exploring **Data Science & Analytics**  
-- ⚡ Background in **Power Systems**  
-- 🌌 Inspired by starry nights, curiosity, and quiet learning  
-- 🎯 Goal: Research-oriented, meaningful tech work  
+## About
+
+I work at the intersection of electrical engineering and data-driven methodologies.  
+My interests include intelligent systems, analytical modeling, and applied research, with a foundation in power systems, control systems, and embedded platforms, complemented by experience in data science and machine learning.
 
 ---
 
-## ✨ Skills Constellation
+## Technical Focus Areas
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1600&color=C9D1D9&width=1000&lines=AI+%2F+ML+%2F+DL+|+Data+Science+|+Data+Analytics+|+Power+Systems+|+Control+Systems;Embedded+Systems+|+Graphic+Designing+|+System+Modeling+|+Signal+Analysis+|+Applied+Research" />
+
+---
+
+## Programming Languages & Hardware
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1600&color=C9D1D9&width=1000&lines=C+|+C%2B%2B+|+Python+|+Java+|+Verilog;8051+Microcontroller+|+Embedded+C+|+RTL+Design+|+Low-Level+Programming+|+Hardware+Interfacing" />
+
+---
+
+## Software & Tools
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1600&color=C9D1D9&width=1000&lines=MATLAB+|+Jupyter+Notebook+|+LabVIEW+|+LTspice+|+VS+Code;Keil+uVision+5+|+Simulink+|+Data+Visualization+|+Circuit+Simulation+|+Debugging" />
+
+---
+
+## Research Publications
+
+**Title:** *Your Research Paper Title Goes Here*  
+**Status:** Published  
+**Link:** https://your-publication-link-here  
+
+Brief description (optional):  
+This paper focuses on analytical modeling and applied system-level evaluation within an engineering context, supported by experimental or data-driven validation.
+
+---
+
+## Current Direction
+
+Focused on research-oriented projects that integrate electrical engineering fundamentals with data science, machine learning, and system-level analysis.
+
+---
+
 <p align="center">
-  <img src="https://img.shields.io/badge/R-0A1AFF?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-111827?style=for-the-badge&logo=mathworks&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Power%20Systems-020617?style=for-the-badge" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/starry_night.gif" width="100%" />
 </p>
-
----
-
-## 🌌 GitHub Under the Stars
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saramishra&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🌠 Philosophy
-> *“Some nights are for stars, some for code — both teach patience.”*
-
----
-
-## 📫 Reach Me
-- 💌 Email:mishrasara05@gmail.com  
-- 🔗 LinkedIn: your-link-here  
-
-<p align="center">✨ Thanks for visiting — wander gently ✨</p>
