@@ -64,8 +64,8 @@ I am an electrical engineer with core interests in control systems, embedded sys
 ## Research Publication
 
 **Title:** Predictive Modeling for Parkinson's Diagnosis: A Machine Learning Approach Using Patient Data
+**Link:** (https://ieeexplore.ieee.org/document/11340226)  
 <!--**Status:** Published-->  
-**Link:** (https://ieeexplore.ieee.org/xpl/conhome/11339979/proceeding)  
 
 ---
 
