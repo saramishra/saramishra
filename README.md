@@ -1,13 +1,13 @@
-<!-- Optional Header Image -->
+<!-- Optional Header Image 
 <p align="center">
   <img src="YOUR_IMAGE_LINK_HERE" width="100%" />
 </p>
-
+-->
 ---
 
 ## About
 
-I work across electrical engineering and data-oriented problem solving, with interests in intelligent systems, analytical modeling, and applied research. My background includes power systems, control systems, and embedded platforms, complemented by work in data science and machine learning.
+I am an electrical engineer with core interests in control systems, embedded systems, and power systems. In parallel, I independently explore AI, machine learning, deep learning, data science, and data analytics as areas of personal and academic interest.
 
 ---
 
